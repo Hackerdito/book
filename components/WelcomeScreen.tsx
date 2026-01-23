@@ -1,6 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { X, Mail } from 'lucide-react';
 
+// CONFIGURACIÓN DE IMÁGENES
+// Actualizado con tus nuevos assets
+const ASSETS = {
+  BACKGROUND: "https://fileuk.netlify.app/BG.webp",
+  LOGO: "https://fileuk.netlify.app/logo.png"
+};
+
 interface WelcomeScreenProps {
   onEnter: () => void;
   isExiting: boolean;
@@ -37,7 +44,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onEnter, isExiting }) => 
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-100 ease-out"
         style={{
-          backgroundImage: "url('https://gerardodg.art/assets/img/BG.webp')",
+          backgroundImage: `url('${ASSETS.BACKGROUND}')`,
           transform: `scale(1.05) translate(${offset.x * -1}px, ${offset.y * -1}px)`, // Slight opposing movement
         }}
       />
@@ -51,7 +58,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onEnter, isExiting }) => 
         {/* Logo Section */}
         <div className="mb-2 flex flex-col items-center">
           <img 
-            src="https://gerardodg.art/assets/img/icon.png" 
+            src={ASSETS.LOGO}
             alt="Logo" 
             className="w-24 h-24 md:w-32 md:h-32 object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.3)] animate-float"
           />
