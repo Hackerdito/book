@@ -1,0 +1,177 @@
+    code: `<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#ffffff; margin:0; padding:0;">
+  <tr>
+    <td align="center">
+
+      <table width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px; max-width:600px; background:#ffffff;">
+
+        <!-- NAV -->
+        <tr>
+          <td align="center" style="padding:25px 10px 20px;">
+            <a href="#" style="font-size:10px; color:#777; text-decoration:none; margin:0 18px;">INICIO</a>
+            <a href="#" style="font-size:10px; color:#777; text-decoration:none; margin:0 18px;">CLASES</a>
+            <a href="#" style="font-size:10px; color:#777; text-decoration:none; margin:0 18px;">PROGRAMAS</a>
+            <a href="#" style="font-size:10px; color:#777; text-decoration:none; margin:0 18px;">CONTACTO</a>
+          </td>
+        </tr>
+
+        <!-- HERO -->
+        <tr>
+          <td align="center" style="padding:0 35px;">
+            <img src="http://cdn.mcauto-images-production.sendgrid.net/6ad2217a53ba4b09/a37ca53d-897b-4f93-b3ff-b05d4f04fb44/1024x559.jpeg" width="530" alt="Entrenamiento" style="display:block; width:100%; max-width:530px; border:0;">
+          </td>
+        </tr>
+
+        <!-- INTRO -->
+        <tr>
+          <td align="center" style="padding:35px 55px 25px;">
+            <h2 style="margin:0 0 15px; font-size:18px; letter-spacing:6px; color:#111; font-family:Arial, Helvetica, sans-serif;">
+              EN CASA
+            </h2>
+            <p style="margin:0; font-size:11px; line-height:18px; color:#999; font-family:Arial, Helvetica, sans-serif;">
+              Entrena desde la comodidad de tu hogar con nuestras rutinas diseñadas para mejorar tu condición física, equilibrio y bienestar general.
+            </p>
+          </td>
+        </tr>
+
+        <!-- CARD 1 -->
+        <!-- CARD 1 CORREGIDA -->
+
+<tr>
+
+  <td style="padding:0 35px 20px;">
+
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f3f3f3; width:100%;">
+
+      <tr>
+
+        <!-- IMAGEN -->
+
+        <td width="50%" height="210" valign="middle" align="center" style="padding:0; vertical-align:middle;">
+
+          <img src="http://cdn.mcauto-images-production.sendgrid.net/6ad2217a53ba4b09/fa7c00be-e5cd-4492-ba04-a66d34e6ffdb/1024x559.jpeg" width="265" height="145" alt="Equilibrio Corporal" style="display:block; width:265px; height:145px; object-fit:cover; border:0;">
+
+        </td>
+
+        <!-- TEXTO -->
+
+        <td width="50%" height="210" valign="middle" align="left" style="padding:0 35px; vertical-align:middle; font-family:Arial, Helvetica, sans-serif;">
+
+          <h3 style="margin:0 0 12px; font-size:22px; line-height:25px; letter-spacing:3px; color:#111;">
+
+            EQUILIBRIO<br>CORPORAL
+
+          </h3>
+
+          <p style="margin:0 0 18px; font-size:12px; line-height:18px; color:#888;">
+
+            Mejora tu equilibrio, flexibilidad y concentración con ejercicios guiados.
+
+          </p>
+
+          <a href="#" style="background:#000; color:#fff; text-decoration:none; font-size:10px; padding:11px 23px; display:inline-block;">
+
+            VER MÁS
+
+          </a>
+
+        </td>
+
+      </tr>
+
+    </table>
+
+  </td>
+
+</tr>
+
+        <!-- CARD 2 -->
+        <tr>
+  <td style="padding:0 35px 20px;">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f3f3f3; width:100%;">
+      <tr>
+
+        <!-- TEXTO -->
+        <td width="50%" height="210" valign="middle" align="left" style="padding:0 35px; vertical-align:middle; font-family:Arial, Helvetica, sans-serif;">
+          <h3 style="margin:0 0 12px; font-size:22px; line-height:25px; letter-spacing:3px; color:#111;">
+            FUERZA TOTAL
+          </h3>
+
+          <p style="margin:0 0 18px; font-size:12px; line-height:18px; color:#888;">
+            Rutinas enfocadas en fortalecer todo tu cuerpo y mejorar tu resistencia.
+          </p>
+
+          <a href="#" style="background:#000; color:#fff; text-decoration:none; font-size:10px; padding:11px 23px; display:inline-block;">
+            VER MÁS
+          </a>
+        </td>
+
+        <!-- IMAGEN -->
+        <td width="50%" height="210" valign="middle" align="center" style="padding:0; vertical-align:middle;">
+          <img src="http://cdn.mcauto-images-production.sendgrid.net/6ad2217a53ba4b09/304303bb-cde4-44b1-9259-9af68a5c40a7/1024x559.jpeg" width="265" height="145" alt="Fuerza Total" style="display:block; width:265px; height:145px; object-fit:cover; border:0;">
+        </td>
+
+      </tr>
+    </table>
+  </td>
+</tr>
+
+        <!-- CARD 3 -->
+        <tr>
+  <td style="padding:0 35px 25px;">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f3f3f3; width:100%;">
+      <tr>
+
+        <!-- IMAGEN -->
+        <td width="50%" height="210" valign="middle" align="center" style="padding:0; vertical-align:middle;">
+          <img src="http://cdn.mcauto-images-production.sendgrid.net/6ad2217a53ba4b09/26701b5a-4a85-4532-aeb8-e26a2a30ee9e/1024x559.jpeg" width="265" height="145" alt="Entrenamiento Funcional" style="display:block; width:265px; height:145px; object-fit:cover; border:0;">
+        </td>
+
+        <!-- TEXTO -->
+        <td width="50%" height="210" valign="middle" align="left" style="padding:0 35px; vertical-align:middle; font-family:Arial, Helvetica, sans-serif;">
+          <h3 style="margin:0 0 12px; font-size:22px; line-height:25px; letter-spacing:3px; color:#111;">
+            ENTRENAMIENTO<br>FUNCIONAL
+          </h3>
+
+          <p style="margin:0 0 18px; font-size:12px; line-height:18px; color:#888;">
+            Mejora tu condición física con ejercicios dinámicos y de alta intensidad.
+          </p>
+
+          <a href="#" style="background:#000; color:#fff; text-decoration:none; font-size:10px; padding:11px 23px; display:inline-block;">
+            VER MÁS
+          </a>
+        </td>
+
+      </tr>
+    </table>
+  </td>
+</tr>
+
+        <!-- PROMO -->
+        <tr>
+          <td align="center" style="padding:0 35px 30px;">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f5a400;">
+              <tr>
+                <td align="center" style="padding:18px;">
+                  <p style="margin:0; color:#ffffff; font-size:16px; letter-spacing:7px; font-weight:bold; font-family:Arial, Helvetica, sans-serif;">
+                    50% DE DESCUENTO HASTA NOVIEMBRE
+                  </p>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- SOCIAL -->
+        <tr>
+          <td align="center" style="padding:0 0 35px;">
+            <a href="#" style="font-size:13px; color:#111; text-decoration:none; margin:0 8px;">f</a>
+            <a href="#" style="font-size:13px; color:#111; text-decoration:none; margin:0 8px;">x</a>
+            <a href="#" style="font-size:13px; color:#111; text-decoration:none; margin:0 8px;">◎</a>
+          </td>
+        </tr>
+
+      </table>
+
+    </td>
+  </tr>
+</table>`
